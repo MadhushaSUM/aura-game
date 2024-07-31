@@ -21,5 +21,5 @@ public:
 	virtual void OnRep_PlayerState() override;
 
 private:
-	void InitAbilitySystemComponent();
+	virtual void InitAbilitySystemInfo() override;
 };
