@@ -55,5 +55,5 @@ void AAuraCharacter::InitAbilitySystemInfo()
 		}
 	}
 
-	InitializePrimaryAttributes();
+	InitializeDefaultAttributes();
 }
